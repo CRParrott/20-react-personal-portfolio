@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/20-react-personal-portfolio/static/css/main.fd1b5e08.chunk.css",
+    "main.js": "/20-react-personal-portfolio/static/js/main.e200a99c.chunk.js",
+    "main.js.map": "/20-react-personal-portfolio/static/js/main.e200a99c.chunk.js.map",
+    "runtime-main.js": "/20-react-personal-portfolio/static/js/runtime-main.ba108602.js",
+    "runtime-main.js.map": "/20-react-personal-portfolio/static/js/runtime-main.ba108602.js.map",
+    "static/js/2.5bb5fe91.chunk.js": "/20-react-personal-portfolio/static/js/2.5bb5fe91.chunk.js",
+    "static/js/2.5bb5fe91.chunk.js.map": "/20-react-personal-portfolio/static/js/2.5bb5fe91.chunk.js.map",
+    "index.html": "/20-react-personal-portfolio/index.html",
+    "static/css/main.fd1b5e08.chunk.css.map": "/20-react-personal-portfolio/static/css/main.fd1b5e08.chunk.css.map",
+    "static/js/2.5bb5fe91.chunk.js.LICENSE.txt": "/20-react-personal-portfolio/static/js/2.5bb5fe91.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/20-react-personal-portfolio/static/media/OceanBackground.ee328f7e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba108602.js",
+    "static/js/2.5bb5fe91.chunk.js",
+    "static/css/main.fd1b5e08.chunk.css",
+    "static/js/main.e200a99c.chunk.js"
+  ]
+}
